@@ -1,6 +1,0 @@
-ASP.NET LIFE CYCLE
-STAGES OF ASP.NET CORE
-Requestiong of page -> Starting of Page Lifecycle -> Initializing of page -> Loading of page -> Validating -> Postback event handling -> Rendering of page -> Unloading.
-
-- PAGE LIFE CYCLE
-Initialization -> Instantiation of page controls -> Recovery and upkeep of the state -> Execution of event handlers -> Rendering of page.
