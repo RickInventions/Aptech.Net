@@ -1,0 +1,66 @@
+ASP.NET LIFE CYCLE
+
+PAGE LIFE CYCLE
+Initialization->Instantiation of PAGE controls->Recovery and upkeep of the state->Execution of event handlers->Rendering of page
+
+STAGES OF ASP.NET Core
+Requesting of page->Starting of page lifecycle->Initialising of page->loading of page->Validating->Postback event handling->rendering of page->unloading
+
+Features of ASP.NET Core 5.0 for performance Improvement
+
+Blazor
+
+• Framework to design client-side applications.
+
+Languages: C#/Razor and HTML
+
+Signalk
+
+• Open-source library to Integrate real-time functionality into enterprise
+
+Web applications
+
+Dapper
+
+• Object Mapper that bridges gap between databases and programiming languages
+
+Centre
+
+Only one version can be utilized per machine.
+
+Apps can be created with the help of Visual Studio, Visual Studio for Mac, or Visual
+
+Apps can be created with the help of Visual Studio unting C#, VII, cr Fe.
+
+Stasho Code plech
+
+Performance is better than ASP.NE
+
+Performance is le than ASP.NET Core.
+
+Choose either NET Framework runtime ET Core
+
+Developers must use NET Framework runtime.
+
+Active Server Pages (ASP) was developed with an aim to generate Web content capable of f changing based on the interaction with the user.
+
+With the help of ASP.NET, developers can Website flawlessly and with a simple code. integrate important elements of a business
+
+The ASP.NET lifecycle can be Centre Application Lifecycle and Page Lifecycle.
+
+The lifecycle of an ASP.NET page is back. I on whether the page request is new or a post
+
+tech
+
+ASP.NET Core is a new open-source and cross-platform framework that helps developers to create novel cloud-based internet associated applications.
+
+
+ASP.NET is an established framework that offers all the elements necessary to develop enterprise-grade, server-based Web apps on Windows.
+
+ASP.NET Core helps in developing apps on not just Windows operating system, but also on MacOS and Linux.
+
+ASP.NET collaborates with popular JavaScript frameworks.
+
+Blazor is a new .NET Web framework use for developing client-side applications in C#/Razor and HTML.
+
+Dapper is a straightforward (ORM). Object Mapper that performs Object-Relational Mapping
